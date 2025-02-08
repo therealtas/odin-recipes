@@ -1,1 +1,2 @@
-# Recipes heyyy, in this project i'll be practicing and testing everything i've learned in the HTML section of TOP foundations course and putting my newfound skills to test by building a recipes website.
+# Recipes 
+In this project i'll be practicing and testing everything i've learned in the HTML section of TOP foundations course and building a simple website for recipes.
